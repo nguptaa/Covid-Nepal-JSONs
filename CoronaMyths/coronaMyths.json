@@ -599,30 +599,6 @@
             "created_at": "2020-03-16T15:38:39.235Z",
             "updated_at": "2020-04-03T07:00:16.920Z",
             "__v": 0
-        },
-        {
-            "_id": "5e8579603efde51494f8b40b",
-            "type": "text",
-            "lang": "en",
-            "myth": "केे पानी  पिउनाले  घाटी दुखेको निको हुन्छ, कोरोना भाइरस को संक्रमण बाट बचाउँछ ?",
-            "myth_np": "केे पानी  पिउनाले  घाटी दुखेको निको हुन्छ, कोरोना भाइरस को संक्रमण बाट बचाउँछ ?",
-            "reality": "स्वस्थ रहन पानी पिउनु अति आवश्यक छ। तर यसले कोरोना भाइरसको संक्रमणबाट बचाउँदैन।",
-            "reality_np": "स्वस्थ रहन पानी पिउनु अति आवश्यक छ। तर यसले कोरोना भाइरसको संक्रमणबाट बचाउँदैन।",
-            "source_name": "Ministry of health and Population",
-            "source_url": "https://covid19.mohp.gov.np/#/about",
-            "created_at": "2020-04-02T05:34:24.752Z",
-            "updated_at": "2020-04-02T05:34:24.752Z",
-            "__v": 0
-        },
-        {
-            "_id": "5e6212ad02275f115a8c166e",
-            "type": "text",
-            "lang": "en",
-            "myth": "COVID-19 is going to kill me!",
-            "reality": "COVID-19 is a type of coronavirus, much like SARS and MERS but with a much lower fatality rate (≈3% vs. 10% vs. 35% respectively). COVID-19 is more highly transmissible, but not as deadly. You have higher rates of dying from influenza.",
-            "source_name": "Emergency Physician Monthly ",
-            "source_url": "https://epmonthly.com/article/debunking-coronavirus-myths-vs-truth/",
-            "__v": 0
         }
     ],
     "total": 42,
